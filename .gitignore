@@ -1,0 +1,3 @@
+**/*.DS_Store
+**/crash_reports/
+**/*.[Ll]og
