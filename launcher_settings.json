@@ -1,0 +1,12 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 2681200487722582805,
+  "disableGPU" : true,
+  "formatVersion" : 0,
+  "locale" : "en-RU",
+  "productLibraryDir" : "/Users/splushka/Library/Application Support/minecraft/products",
+  "useArm64JreIfSupported" : true,
+  "useMagnifiedMode" : false,
+  "version" : 4
+}
